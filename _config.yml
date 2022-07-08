@@ -1,5 +1,12 @@
 theme: jekyll-theme-minimal
-title: Sample Map Website
+
+---
+title: "Sample Website"
+bg: black
+color: white
+style: center
+---
+
 description: Hello World
 background: "#073642"
 #logo: you can upload a jpg to the git repo and call it here i.e. image.jpg 

@@ -11,7 +11,7 @@
 
 
 
-<iframe src="epds-map.html" height="500" width="900"></iframe>
+<iframe src="epds-map.html" height="500" width="1100"></iframe>
 
 You can explore this map [as its own web page here](epds-map.html).
 

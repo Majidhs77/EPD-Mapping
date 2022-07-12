@@ -7,11 +7,9 @@ color: white
 style: center
 ---
 
-description: "Kelly & Maged Project managers: How many times have you felt stuck comparing incomplete data between suppliers on the Global Warming Potential (GWP) of their ready-mix concrete?
-Rest easy, the hard part is done. Zoom in on your region, select suppliers near you, and easily compare all relevant data. Give your attention to the job site, where it's needed; trust us to find and synthesize the EPD data you need."
+description: ""This tool contains data on the Global Warming Potential of ready-mix concrete, measured in kilograms of CO2 equivalent. This data is sourced from the Embodied Carbon in Construction Calculator (EC3) at www.buildingtransparency.org."
 background: "#fafafa"
 #logo: you can upload a jpg to the git repo and call it here i.e. image.jpg 
 #You can also add a logo from an image URL, as below
 #logo: https://www.lawschool.cornell.edu/_cs_apps/pt_photo_gallery/uploads/mainphotogallery/fullsizeimage/Photogallery_Ithacapage_8.png
 
-"This tool contains data on the Global Warming Potential of ready-mix concrete, measured in kilograms of CO2 equivalent. This data is sourced from the Embodied Carbon in Construction Calculator (EC3) at www.buildingtransparency.org."
